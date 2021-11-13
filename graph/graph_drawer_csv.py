@@ -1,13 +1,11 @@
-import numpy as np  
 import pandas as pd
 import matplotlib.pyplot as plt
-import matplotlib as mpl
+
+#Берет данные о дате и урожайности из файла формата .csv
 df = pd.read_csv('https://raw.githubusercontent.com/SiVittorio/TURBO3000_FOOD_TECH/main/graph/data.csv')
 x = df['year']
 y = df['yield']
 
-#print(x)
-#print(y)
-
+#Строит график по двум переменным
 plt.bar(x, y)
 plt.show()
