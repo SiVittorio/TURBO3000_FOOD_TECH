@@ -16,7 +16,6 @@ def dots():
         xy.append(list(map(lambda x: list(map(float, x.split(','))), elem.attributes['points'].value.split(';'))))
 
     xy = xy[0]
-    print(xy[-1])
 
     return xy
 
@@ -28,7 +27,7 @@ def table(xy):
     imaging_rgb = cv2.cvtColor(imaging, cv2.COLOR_BGR2RGB)
     # Plotting image with subplot() from plt
     plt.subplot(1, 1, 1)
-    for x in range(0, len.xy):
+    for x in range(0, len(xy)):
         plt.scatter(xy[x][0], xy[x][1] , s=50)
     # Displaying image in the output
 
