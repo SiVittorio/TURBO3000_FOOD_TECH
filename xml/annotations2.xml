@@ -1,0 +1,139 @@
+<annotations>
+<version>1.1</version>
+<meta>
+<task>
+<id>37095</id>
+<name>sunflower_3</name>
+<size>100</size>
+<mode>annotation</mode>
+<overlap>0</overlap>
+<bugtracker/>
+<created>2021-01-14 07:21:39.222955+00:00</created>
+<updated>2021-01-14 07:21:43.508203+00:00</updated>
+<start_frame>0</start_frame>
+<stop_frame>99</stop_frame>
+<frame_filter/>
+<labels>
+<label>
+<name>seed</name>
+<color>#187458</color>
+<attributes> </attributes>
+</label>
+</labels>
+<segments>
+<segment>
+<id>60901</id>
+<start>0</start>
+<stop>99</stop>
+<url>http://cvat.org/?id=60901</url>
+</segment>
+</segments>
+<owner>
+<username>Yliya</username>
+<email>unychenko96@mail.ru</email>
+</owner>
+<assignee/>
+</task>
+<dumped>2021-01-26 05:46:42.528003+00:00</dumped>
+</meta>
+<image id="99" name="200.jpg" width="1001" height="992"> </image>
+<image id="98" name="199.jpg" width="616" height="529"> </image>
+<image id="97" name="198.jpg" width="1069" height="833"> </image>
+<image id="96" name="197.jpg" width="1097" height="943"> </image>
+<image id="95" name="196.jpg" width="1600" height="1171"> </image>
+<image id="94" name="195.jpg" width="1600" height="1163"> </image>
+<image id="93" name="194.jpg" width="1600" height="1167"> </image>
+<image id="92" name="193.jpg" width="1600" height="1171"> </image>
+<image id="91" name="192.jpg" width="968" height="849"> </image>
+<image id="90" name="191.jpg" width="1023" height="682"> </image>
+<image id="89" name="190.jpg" width="1023" height="682"> </image>
+<image id="88" name="189.jpg" width="1600" height="1163"> </image>
+<image id="87" name="188.jpg" width="751" height="607"> </image>
+<image id="86" name="187.jpg" width="1209" height="1005"> </image>
+<image id="85" name="186.jpg" width="1600" height="1171"> </image>
+<image id="84" name="185.jpg" width="1600" height="1171"> </image>
+<image id="83" name="184.jpg" width="1023" height="682"> </image>
+<image id="82" name="183.jpg" width="1046" height="877"> </image>
+<image id="81" name="182.jpg" width="994" height="919"> </image>
+<image id="80" name="181.jpg" width="574" height="583"> </image>
+<image id="79" name="180.jpg" width="1023" height="682"> </image>
+<image id="78" name="179.jpg" width="1600" height="1167"> </image>
+<image id="77" name="178.jpg" width="1600" height="1167"> </image>
+<image id="76" name="177.jpg" width="1023" height="682"> </image>
+<image id="75" name="176.jpg" width="466" height="413"> </image>
+<image id="74" name="175.jpg" width="968" height="690"> </image>
+<image id="73" name="174.jpg" width="1200" height="1700"> </image>
+<image id="72" name="173.jpg" width="1024" height="678"> </image>
+<image id="71" name="172.jpg" width="1023" height="682"> </image>
+<image id="70" name="171.jpg" width="556" height="415"> </image>
+<image id="69" name="170.jpg" width="1067" height="1700"> </image>
+<image id="68" name="169.jpg" width="1023" height="682"> </image>
+<image id="67" name="168.jpg" width="500" height="333"> </image>
+<image id="66" name="167.jpg" width="600" height="450"> </image>
+<image id="65" name="166.jpg" width="745" height="596"> </image>
+<image id="64" name="165.jpg" width="448" height="336"> </image>
+<image id="63" name="164.jpg" width="480" height="360"> </image>
+<image id="62" name="163.jpg" width="600" height="399"> </image>
+<image id="61" name="162.jpg" width="1000" height="750"> </image>
+<image id="60" name="161.jpg" width="512" height="341"> </image>
+<image id="59" name="160.jpeg" width="615" height="460"> </image>
+<image id="58" name="159.jpg" width="537" height="466"> </image>
+<image id="57" name="158.jpg" width="600" height="399"> </image>
+<image id="56" name="157.jpg" width="720" height="479"> </image>
+<image id="55" name="156.jpg" width="570" height="480"> </image>
+<image id="54" name="155.jpg" width="1000" height="545"> </image>
+<image id="53" name="154.jpg" width="601" height="400"> </image>
+<image id="52" name="153.jpg" width="600" height="401"> </image>
+<image id="51" name="152.jpg" width="550" height="367"> </image>
+<image id="50" name="151.jpg" width="508" height="341"> </image>
+<image id="49" name="150.jpg" width="640" height="480"> </image>
+<image id="48" name="149.jpg" width="800" height="600"> </image>
+<image id="47" name="148.jpg" width="1920" height="1277"> </image>
+<image id="46" name="147.jpg" width="600" height="400"> </image>
+<image id="45" name="146.jpg" width="500" height="333"> </image>
+<image id="44" name="145.jpg" width="640" height="480"> </image>
+<image id="43" name="144.jpg" width="1000" height="667"> </image>
+<image id="42" name="143.jpg" width="1944" height="2491"> </image>
+<image id="41" name="142.jpg" width="258" height="195"> </image>
+<image id="40" name="141.jpg" width="1148" height="1138"> </image>
+<image id="39" name="140.png" width="394" height="388"> </image>
+<image id="38" name="139.jpg" width="584" height="581"> </image>
+<image id="37" name="138.jpg" width="1920" height="1440"> </image>
+<image id="36" name="137.jpg" width="589" height="421"> </image>
+<image id="35" name="136.jpg" width="1280" height="853"> </image>
+<image id="34" name="135.jpg" width="1023" height="682"> </image>
+<image id="33" name="134.jpg" width="634" height="497"> </image>
+<image id="32" name="133.jpg" width="1280" height="853"> </image>
+<image id="31" name="132.jpeg" width="724" height="600"> </image>
+<image id="30" name="131.jpg" width="600" height="400"> </image>
+<image id="29" name="130.jpg" width="1200" height="800"> </image>
+<image id="28" name="129.jpg" width="437" height="519"> </image>
+<image id="27" name="128.jpg" width="1920" height="1440"> </image>
+<image id="26" name="127.jpg" width="3072" height="2304"> </image>
+<image id="25" name="126.jpg" width="1600" height="1064"> </image>
+<image id="24" name="125.jpg" width="1920" height="1080"> </image>
+<image id="23" name="124.jpg" width="902" height="1023"> </image>
+<image id="22" name="123.jpg" width="1500" height="1120"> </image>
+<image id="21" name="122.jpg" width="682" height="1023"> </image>
+<image id="20" name="121.jpg" width="1920" height="1280"> </image>
+<image id="19" name="120.jpg" width="1023" height="682"> </image>
+<image id="18" name="119.jpg" width="1200" height="803"> </image>
+<image id="17" name="118.jpg" width="1024" height="671"> </image>
+<image id="16" name="117.jpg" width="800" height="694"> </image>
+<image id="15" name="116.jpg" width="807" height="807"> </image>
+<image id="14" name="115.jpg" width="700" height="933"> </image>
+<image id="13" name="114.jpg" width="7360" height="4912"> </image>
+<image id="12" name="113.jpg" width="2576" height="1719"> </image>
+<image id="11" name="112.JPG" width="1600" height="1200"> </image>
+<image id="10" name="111.jpg" width="1680" height="945"> </image>
+<image id="9" name="110.jpg" width="1356" height="1076"> </image>
+<image id="8" name="109.jpg" width="1200" height="900"> </image>
+<image id="7" name="108.jpg" width="698" height="614"> </image>
+<image id="6" name="107.jpg" width="1023" height="682"> </image>
+<image id="5" name="106.jpg" width="499" height="522"> </image>
+<image id="4" name="105.jpg" width="791" height="567"> </image>
+<image id="3" name="104.jpg" width="1024" height="678"> </image>
+<image id="2" name="103.jpg" width="1600" height="1163"> </image>
+<image id="1" name="102.jpg" width="350" height="317"> </image>
+<image id="0" name="101.jpg" width="3264" height="2176"> </image>
+</annotations>
